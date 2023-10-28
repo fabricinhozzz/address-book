@@ -1,7 +1,7 @@
 
 # Simple Address Book
 
-Este é um projeto simples de um livro de endereços em Ruby, 
+Esse é um projeto simples de um livro de endereços em Ruby, 
 que permite aos usuários adicionar, visualizar e excluir 
 contatos do livro de endereços.
 
