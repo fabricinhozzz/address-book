@@ -10,7 +10,7 @@ RSpec.describe AddressBook do
         expect(AddressBook.view_con).to include(contact)
     end
 
-    it 'deleta uma contato' do
+    it 'deleta um contato' do
         contact = Contact.new(1, 'Fabricinho', 'rua pomba')
 
         AddressBook.add_con(contact)
